@@ -4,7 +4,7 @@
 
 ## デモ
 
-GitHub Pages: https://[ユーザー名].github.io/spreadsheet-app/
+GitHub Pages: https://hhasebe-besterra.github.io/spreadsheet-app/
 
 ## 機能一覧
 
